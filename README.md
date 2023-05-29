@@ -38,3 +38,9 @@ The data contains information regarding the interaction of users in both groups 
 5. converted - Whether the user gets converted to a subscriber of the news portal or not
 
 6. language_preferred - Language chosen by the user to view the landing page
+
+## Skills & Tools Covered
+1. Hypothesis Testing
+2. a/b testing
+3. Data Visualization
+4. Statistical Inference
