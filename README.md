@@ -1,5 +1,8 @@
 # Business Statistics Project: E-news Express
-Project 2 of Post Graduate Program in Data Science and Business Analytics from The University of Texas at Austin, McCombs School of Business
+Postgraduate Program in Data Science and Business Analytics
+The University of Texas at Austin, McCombs School of Business
+Course: Business Statistics
+Result: 60/60 (Full mark)
 
 ## Business Context
 
