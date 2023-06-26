@@ -4,6 +4,12 @@
 - Course: Business Statistics
 - Result: 60/60 (Full mark)
 
+## Skills & Tools Covered
+1. Hypothesis Testing
+2. a/b testing
+3. Data Visualization
+4. Statistical Inference
+
 ## Business Context
 
 The advent of e-news, or electronic news, portals has offered us a great opportunity to quickly get updates on the day-to-day events occurring globally. The information on these portals is retrieved electronically from online databases, processed using a variety of software, and then transmitted to the users. There are multiple advantages of transmitting new electronically, like faster access to the content and the ability to utilize different technologies such as audio, graphics, video, and other interactive elements that are either not being used or aren’t common yet in traditional newspapers.
@@ -42,8 +48,4 @@ The data contains information regarding the interaction of users in both groups 
 
 6. language_preferred - Language chosen by the user to view the landing page
 
-## Skills & Tools Covered
-1. Hypothesis Testing
-2. a/b testing
-3. Data Visualization
-4. Statistical Inference
+
